@@ -36,6 +36,8 @@ and the real Sonos device.
 Since Sonos uses UPnP, the add-on might also work for other UPnP players
 (e.g., newer Samsung televisions).
 
+The AirCast add-on is based on the excellent [AirConnect][airconnect] project.
+
 [:books: Read the full add-on documentation][docs]
 
 ## Support
@@ -81,7 +83,7 @@ our [GitHub Repository][repository].
 
 MIT License
 
-Copyright (c) 2017-2021 Franck Nijhof
+Copyright (c) 2017-2025 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -102,6 +104,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[airconnect]: https://github.com/philippe44/AirConnect
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
@@ -119,10 +122,10 @@ SOFTWARE.
 [github-actions]: https://github.com/hassio-addons/addon-airsonos/actions
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/hassio-addons/addon-airsonos/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-airsonos.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
